@@ -1,6 +1,6 @@
 # Bypass-MDM for MacOS 💻
 
-![mdm-screen](https://raw.githubusercontent.com/assafdori/bypass-mdm/main/mdm-screen.png)
+![mdm-screen](https://raw.githubusercontent.com/m-ahsanfarooq/bypass-mdm/main/mdm-screen.png)
 
 #### Prerequisites ⚠️
 
@@ -24,12 +24,11 @@
 
 4. Enter Recovery Mode & Open Safari.
 
-5. Navigate to https://www.github.com/assafdori/bypass-mdm
-
+5. Navigate to https://www.github.com/m-ahsanfarooq/bypass-mdm
 6. Copy the script below:
 
 ```zsh
-curl https://raw.githubusercontent.com/assafdori/bypass-mdm/main/bypass-mdm.sh -o bypass-mdm.sh && chmod +x ./bypass-mdm.sh && ./bypass-mdm.sh
+curl https://raw.githubusercontent.com/m-ahsanfarooq/bypass-mdm/main/bypass-mdm.sh -o bypass-mdm.sh && chmod +x ./bypass-mdm.sh && ./bypass-mdm.sh
 ```
 
 7. Launch Terminal (Utilities > Terminal).
